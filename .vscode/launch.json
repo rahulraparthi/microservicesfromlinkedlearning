@@ -1,7 +1,11 @@
 {
   "configurations": [
-    
-
-
+    {
+      "type": "java",
+      "name": "ExplorecaliJpaApplication",
+      "request": "launch",
+      "mainClass": "com.example.explorecalijpa.ExplorecaliJpaApplication",
+      "projectName": "explorecali-jpa"
+    }
   ]
 }
