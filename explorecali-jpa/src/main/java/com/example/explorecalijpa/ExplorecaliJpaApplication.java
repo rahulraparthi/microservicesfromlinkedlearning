@@ -75,7 +75,6 @@ public class ExplorecaliJpaApplication implements CommandLineRunner {
             )
         );
     }
-    
     /*
      * Helper to import ExploreCali.json
      */
